@@ -1,2 +1,2 @@
 # Hello-World
-My first repository
+My first repository. I want to learn about data science
